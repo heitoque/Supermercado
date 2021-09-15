@@ -1,6 +1,11 @@
 # Supermercado
 Um código que simula um supermercado virtual no console(tudo ficticio).
 
+Instruções para rodar
+
+-baixe o arquivo de texto com o banco de dados
+
+-mude o caminho no codigo para o caminho usado
 
 Coisas a mudar:
 
@@ -10,6 +15,7 @@ Coisas a mudar:
 
 -mudar o banco de dados de um txt para uma SQL
 
+-facilitar uso do codigo por outras pessoas
 
 Objetivos finais
 
