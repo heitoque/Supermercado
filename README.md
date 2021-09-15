@@ -4,7 +4,7 @@ Um código que simula um supermercado virtual no console(tudo ficticio).
 
 Coisas a mudar:
 
--retirar os While true:
+-retirar os while True:
 
 -criar varios arquivos para o projeto
 
